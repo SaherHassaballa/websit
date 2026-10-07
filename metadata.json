@@ -1,0 +1,8 @@
+{
+  "name": "Remix Company Name — AI Logistics Operations",
+  "description": "AI-powered operations for delivery and logistics. Intelligent agents for customer support, operations, cash collection, courier communication, and delivery discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

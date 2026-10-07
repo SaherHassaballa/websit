@@ -1,6 +1,6 @@
 {
-  "name": "Remix Company Name — AI Logistics Operations",
-  "description": "AI-powered operations for delivery and logistics. Intelligent agents for customer support, operations, cash collection, courier communication, and delivery discovery.",
+  "name": "Request Delivery — اطلب دليفري",
+  "description": "The real mobile marketplace for goods and freight delivery in Egypt. Connects customers and businesses with verified truck, pickup, tricycle, and motorcycle drivers with inDrive-style pricing, live tracking, and OTP verification.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
